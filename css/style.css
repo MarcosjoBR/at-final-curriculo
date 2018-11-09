@@ -97,8 +97,9 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/pw_maze_black_2X.png) left top repeat;
-	padding:280px 0;
+	background:url(../img/fundo2.gif) no-repeat fixed top center;
+	padding: 110px;
+	background-size: 100%;
 }
 .logo{
 	width:130px;
@@ -872,4 +873,13 @@ border: 2px solid #fff;
 margin-right: 15px;
 
 
+}
+
+.minhafoto {
+	border-radius: 100%;
+}
+
+.texto {
+	text-align: center;
+	
 }
